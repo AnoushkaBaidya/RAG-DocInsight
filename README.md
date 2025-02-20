@@ -1,4 +1,4 @@
-# 🤖 RAG PDF Explorer: `DeepSeek-R1`, `Ollama`, `Streamlit`, & `FAISS`
+# RAG PDF Explorer: `DeepSeek-R1`, `Ollama`, `Streamlit`, & `FAISS`
 
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
