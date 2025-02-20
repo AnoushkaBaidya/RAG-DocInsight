@@ -1,0 +1,9 @@
+rag_deepseek/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+.vscode/settings.json
